@@ -1,4 +1,4 @@
-### Deep Reinforcement Learning projects
+### Deep Reinforcement Learning projects from Hugging Face
 
 #### Resources
 - [Hugging Face](http://huggingface.co/)

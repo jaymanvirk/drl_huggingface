@@ -1,9 +1,5 @@
 # Set of Deep Reinforcement Learning projects from Hugging Face
 
-## Resources
-- [Hugging Face](http://huggingface.co/)
-
-## Projects
 | Name | Model | Notebook | Results |
 | --- | --- | --- | --- |
 | 2. [Taxi-v3](https://gymnasium.farama.org/environments/toy_text/taxi/) | | | |

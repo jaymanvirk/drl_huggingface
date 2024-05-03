@@ -2,5 +2,5 @@
 
 | Project | Model | Script | Result |
 | --- | --- | --- | --- |
-| 2. [Taxi-v3](https://gymnasium.farama.org/environments/toy_text/taxi/) |  |  |  |
+| 2. [Taxi-v3](https://gymnasium.farama.org/environments/toy_text/taxi/) | [q_taxi_v3](https://huggingface.co/jaymanvirk/q_taxi_v3) | [q_taxi_v3.ipynb](q_taxi_v3.ipynb) | 4.79 |
 | 1. [LunarLander-v2](https://gymnasium.farama.org/environments/box2d/lunar_lander/) | [ppo_lunar_lander_v2](https://huggingface.co/jaymanvirk/ppo_lunar_lander_v2) | [ppo_lunar_lander_v2.ipynb](ppo_lunar_lander_v2.ipynb) | 243 |

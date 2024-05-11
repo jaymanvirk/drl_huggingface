@@ -2,7 +2,8 @@
 
 | Project | Model | Script | Result |
 | --- | --- | --- | --- |
-| 6. [Snowball Target](https://huggingface.co/learn/deep-rl-course/unit5/snowball-target) | [ppo_snowball_target](https://huggingface.co/jaymanvirk/ppo_snowball_target) | [ppo_snowball_target.ipynb](ppo_snowball_target.ipynb) | 25 |
+| 7. [Pyramids RND](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#pyramids) | [ppo_pyramids_rnd](https://huggingface.co/jaymanvirk/ppo_pyramids_rnd) | [ppo_pyramids_rnd.ipynb](ppo_pyramids_rnd.ipynb) | 1.55 |
+| 6. [Snowball Target](https://huggingface.co/learn/deep-rl-course/unit5/snowball-target) | [ppo_snowball_target](https://huggingface.co/jaymanvirk/ppo_snowball_target) | [ppo_snowball_target.ipynb](ppo_snowball_target.ipynb) | 25.32 |
 | 5. [Pixel Copter v0](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/pixelcopter.html) | [pg_pixel_copter_v0](https://huggingface.co/jaymanvirk/pg_pixel_copter_v0) | [pg_pixel_copter_v0.ipynb](pg_pixel_copter_v0.ipynb) | 18.7 |
 | 4. [Cart Pole v1](https://www.gymlibrary.dev/environments/classic_control/cart_pole/) | [pg_cart_pole_v1](https://huggingface.co/jaymanvirk/pg_cart_pole_v1) | [pg_cart_pole_v1.ipynb](pg_cart_pole_v1.ipynb) | 1000 |
 | 3. [Space Invaders No Frame skip v4](https://gymnasium.farama.org/environments/atari/space_invaders/) | [dqn_space_invaders...v4](https://huggingface.co/jaymanvirk/dqn_space_invaders_no_frame_skip_v4) | [dqn_space_invaders...v4.ipynb](dqn_space_invaders_no_frame_skip_v4.ipynb) | 467.6 |

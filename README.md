@@ -2,6 +2,7 @@
 
 | Project | Model | Script | Result |
 | --- | --- | --- | --- |
+| 8. [Panda Reach Dense v3](https://github.com/qgallouedec/panda-gym) | [a2c_panda_reach_dense_v3](https://huggingface.co/jaymanvirk/a2c_panda_reach_dense_v3) | [a2c_panda_reach_dense_v3.ipynb](a2c_panda_reach_dense_v3.ipynb) | -0.35 |
 | 7. [Pyramids RND](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#pyramids) | [ppo_pyramids_rnd](https://huggingface.co/jaymanvirk/ppo_pyramids_rnd) | [ppo_pyramids_rnd.ipynb](ppo_pyramids_rnd.ipynb) | 1.55 |
 | 6. [Snowball Target](https://huggingface.co/learn/deep-rl-course/unit5/snowball-target) | [ppo_snowball_target](https://huggingface.co/jaymanvirk/ppo_snowball_target) | [ppo_snowball_target.ipynb](ppo_snowball_target.ipynb) | 25.32 |
 | 5. [Pixel Copter v0](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/pixelcopter.html) | [pg_pixel_copter_v0](https://huggingface.co/jaymanvirk/pg_pixel_copter_v0) | [pg_pixel_copter_v0.ipynb](pg_pixel_copter_v0.ipynb) | 18.7 |

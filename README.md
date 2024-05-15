@@ -2,6 +2,7 @@
 
 | Project | Model | Script | Result |
 | --- | --- | --- | --- |
+| 9. [MA-POCA Soccer Twos](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Learning-Environment-Examples.md#soccer-twos) | [poca_soccer_twos](https://huggingface.co/jaymanvirk/poca_soccer_twos) | [poca_soccer_twos.ipynb](poca_soccer_twos.ipynb) | NA |
 | 8. [Panda Reach Dense v3](https://github.com/qgallouedec/panda-gym) | [a2c_panda_reach_dense_v3](https://huggingface.co/jaymanvirk/a2c_panda_reach_dense_v3) | [a2c_panda_reach_dense_v3.ipynb](a2c_panda_reach_dense_v3.ipynb) | -0.35 |
 | 7. [Pyramids RND](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#pyramids) | [ppo_pyramids_rnd](https://huggingface.co/jaymanvirk/ppo_pyramids_rnd) | [ppo_pyramids_rnd.ipynb](ppo_pyramids_rnd.ipynb) | 1.55 |
 | 6. [Snowball Target](https://huggingface.co/learn/deep-rl-course/unit5/snowball-target) | [ppo_snowball_target](https://huggingface.co/jaymanvirk/ppo_snowball_target) | [ppo_snowball_target.ipynb](ppo_snowball_target.ipynb) | 25.32 |

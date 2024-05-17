@@ -2,6 +2,7 @@
 
 | Project | Model | Script | Result |
 | --- | --- | --- | --- |
+| 11. [VizDoom Health Gathering Supreme](https://github.com/Farama-Foundation/ViZDoom) | [ppo_sample_factory_doom...supreme](https://huggingface.co/jaymanvirk/ppo_sample_factory_doom_health_gathering_supreme) | [ppo_sample_factory_doom...supreme.ipynb](ppo_sample_factory_doom_health_gathering_supreme.ipynb) | 7.45 |
 | 10. [Lunar Lander v2](https://gymnasium.farama.org/environments/box2d/lunar_lander/) | [ppo_cleanrl_lunar_lander_v2](https://huggingface.co/jaymanvirk/ppo_cleanrl_lunar_lander_v2) | [ppo_cleanrl_lunar_lander_v2.ipynb](ppo_cleanrl_lunar_lander_v2.ipynb) | -139.4 |
 | 9. [MA-POCA Soccer Twos](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Learning-Environment-Examples.md#soccer-twos) | [poca_soccer_twos](https://huggingface.co/jaymanvirk/poca_soccer_twos) | [poca_soccer_twos.ipynb](poca_soccer_twos.ipynb) | NA |
 | 8. [Panda Reach Dense v3](https://github.com/qgallouedec/panda-gym) | [a2c_panda_reach_dense_v3](https://huggingface.co/jaymanvirk/a2c_panda_reach_dense_v3) | [a2c_panda_reach_dense_v3.ipynb](a2c_panda_reach_dense_v3.ipynb) | -0.35 |
